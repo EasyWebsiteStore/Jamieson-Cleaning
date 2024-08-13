@@ -1,0 +1,27 @@
+import './App.css';
+
+function App () {
+return (
+‹div className="App" >
+‹header className="App-header">
+<img src="Octocat.png" className="App-logo" alt="1ogo" />
+<р>
+GitHub Codespaces <span className="heart"></ span> React
+</p>
+<p class Name="small">
+Edit <code>src/App.jsx</code> and save to reload.
+＜/p>
+<P>
+<a
+className="App-link" href="https://easywebs.store" 
+target="_blank"
+rel="noopener noreferrer"
+>
+Learn React
+</a>
+</p>
+</header >
+</div›
+);
+}
+export default App;
